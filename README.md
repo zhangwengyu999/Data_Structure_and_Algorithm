@@ -1,5 +1,5 @@
 # Data Structure and Algorithm
-A Learning Collection of Useful Data Structures and Algorithms, as well as their Studies, Applications, and Developments
+A learning collection of useful data structures and algorithms, as well as their studies, applications, and developments
 
 ***Made by Mike_Zhang***
 
@@ -18,11 +18,45 @@ A Learning Collection of Useful Data Structures and Algorithms, as well as their
   - DoublyLinkedList
   - CircularlyLinkedList
   
-- 
+- List
+  - ArrayList
+  - LinkedPositionalList 
+
+- Queue
+  - ArrayQueue
+  - LinkedQueue
+  - LinkedCircularQueue
+
+- Stack
+  - ArrayStack
+  - LinkedStack
+
+- Tree
+  - Binary Tree
+    - LinkedBinaryTree
 
 ---
 
 # Algorithm
+
+- Sorting
+  - Bubble Sort
+  - Counting Sort
+  - Heap Sort
+  - Insertion Sort
+  - Merge Sort
+  - Quick Sort
+  - Selection Sort
+
+- Searching
+  - Binary Search
+  - Working...
+
+- Balanced Braces
+- Domino Matching
+- Game of Life
+- Josephus Problem
+- Pascal Triagle
 
 ---
 
