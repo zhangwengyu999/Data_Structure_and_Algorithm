@@ -13,6 +13,13 @@ A Learning Collection of Useful Data Structures and Algorithms, as well as their
 
 # Data Structure
 
+- LinkedList
+  - SinglyLinkedList
+  - DoublyLinkedList
+  - CircularlyLinkedList
+  
+- 
+
 ---
 
 # Algorithm
