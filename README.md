@@ -1,5 +1,8 @@
 # Data Structure and Algorithm
-A learning collection of useful data structures and algorithms, as well as their studies, applications, and developments
+
+A learning collection of useful data structures and algorithms, as well as their studies, applications, and developments.
+
+> Please find learning notes and posts on my blog website - [UltraFish](https://ultrafish.cn).
 
 ***Made by Mike_Zhang***
 
