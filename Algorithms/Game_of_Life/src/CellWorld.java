@@ -119,6 +119,30 @@ public class CellWorld {
         }
         return sb.toString();
     }
+
+    // run for test in Glider example
+    public static void main(String[] args) {
+        CellWorld newWorld = new CellWorld(15,15);
+        Cell c1 = new Cell(2,0);
+        Cell c2 = new Cell(0,1);
+        Cell c3 = new Cell(2,1);
+        Cell c4 = new Cell(1,2);
+        Cell c5 = new Cell(2,2);
+        newWorld.add(c1);
+        newWorld.add(c2);
+        newWorld.add(c3);
+        newWorld.add(c4);
+        newWorld.add(c5);
+        while (true) {
+            try{
+                System.out.println(newWorld.listAll());
+                System.out.println("");
+                newWorld.refresh();
+                Thread.sleep(500);
+            }
+            catch (Exception e) {}
+        }
+    }
 }
 // Made by Mike_Zhang(mike.ultrafish.cn)
 // UltraFish.cn
