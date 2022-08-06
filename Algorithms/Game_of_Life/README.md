@@ -8,11 +8,11 @@ Implementation of the [Conway's Game of Life](https://en.wikipedia.org/wiki/Conw
 
 # Usage
 
-1. Run `main()` method in the `CellWorld.java` class, the Glider example will be implemented in the console;
+1. Run `main()` method in the `src/CellWorld.java` class, the Glider example will be implemented in the console;
 
 or
 
-2. Run the test class `CellWorldTest.java` in InterlliJ IDEA to test given examples or design yours.
+2. Run the test class `src/CellWorldTest.java` in InterlliJ IDEA to test given examples or design yours.
 
 ---
 
