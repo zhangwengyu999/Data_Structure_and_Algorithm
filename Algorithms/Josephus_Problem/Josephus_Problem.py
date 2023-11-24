@@ -1,5 +1,5 @@
 # Made by Mike_Zhang
-# https://ultrafish.cn
+# https://ultrafish.io
 
 from queue import Queue
 n = int(input("\nEnter n, the total number of people(integer >1):"))
@@ -27,4 +27,4 @@ while not outqueue.empty():
      print(outqueue.get(), end=' ')# display the output queue
 
 # Made by Mike_Zhang
-# https://ultrafish.cn
+# https://ultrafish.io
